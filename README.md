@@ -41,4 +41,4 @@ Change the NodePort from Nginx Ingress Controller Service.
         
 3. Verify the updated NodePort `kubectl get svc -n ingress-nginx`
 4. Install [NGINX Ingress Controller](https://www.notion.so/NGINX-Ingress-Controller-1fe1b1e58fc080dd92e2d9c0559100a4?pvs=21) 
-5. .
+5. Deploy  ([svs-microservices](https://github.com/kyawzinmyolwin/svs-microservices/tree/ec810c00d262ca763a5bad2dc23e84f61b9285df/k8s))
